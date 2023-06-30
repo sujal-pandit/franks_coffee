@@ -1,0 +1,150 @@
+{
+    "coffee": [
+        {
+            "id": 1,
+            "name": "Americano",
+            "image": "assets/images/coffee/Americano.png",
+            "price": 180,
+            "order count": 1
+        },
+        {
+            "id": 2,
+            "name": "Cappucino",
+            "image": "assets/images/coffee/Cappucino.png",
+            "price": 180,
+            "order count": 1
+        },
+        {
+            "id": 3,
+            "name": "Espresso",
+            "image": "assets/images/coffee/Espresso.png",
+            "price": 100,
+            "order count": 1
+        },
+        {
+            "id": 4,
+            "name": "Macchiato",
+            "image": "assets/images/coffee/Macchiato.png",
+            "price": 300,
+            "order count": 1
+        },
+        {
+            "id": 5,
+            "name": "Mocha",
+            "image": "assets/images/coffee/Mocha.png",
+            "price": 330,
+            "order count": 1
+        }
+    ],
+    "smoothie": [
+        {
+            "id": 1,
+            "name": "Mango Smoothie",
+            "image": "assets/images/smoothie/Mango_Smoothie.png",
+            "price": 250,
+            "order count": 1
+        },
+        {
+            "id": 2,
+            "name": "Kiwi Smoothie",
+            "image": "assets/images/smoothie/Kiwi_Smoothie.png",
+            "price": 250,
+            "order count": 1
+        },
+        {
+            "id": 3,
+            "name": "Blueberry Smoothie",
+            "image": "assets/images/smoothie/Blueberry_Smoothie.png",
+            "price": 250,
+            "order count": 1
+        },
+        {
+            "id": 4,
+            "name": "Strawberry Smoothie",
+            "image": "assets/images/smoothie/Strawberry_Smoothie.png",
+            "price": 250,
+            "order count": 1
+        },
+        {
+            "id": 5,
+            "name": "Watermelon Smoothie",
+            "image": "assets/images/smoothie/Watermelon_Smoothie.png",
+            "price": 250,
+            "order count": 1
+        }
+    ],
+    "tea": [
+        {
+            "id": 1,
+            "name": "Black Tea",
+            "image": "assets/images/tea/Black_Tea.png",
+            "price": 20,
+            "order count": 1
+        },
+        {
+            "id": 2,
+            "name": "Green Tea",
+            "image": "assets/images/tea/Green_Tea.png",
+            "price": 30,
+            "order count": 1
+        },
+        {
+            "id": 3,
+            "name": "Herbal Tea",
+            "image": "assets/images/tea/Herbal_Tea.png",
+            "price": 30,
+            "order count": 1
+        },
+        {
+            "id": 4,
+            "name": "Lemon Tea",
+            "image": "assets/images/tea/Lemon_Tea.png",
+            "price": 30,
+            "order count": 0
+        },
+        {
+            "id": 5,
+            "name": "Milk Tea",
+            "image": "assets/images/tea/Milk_Tea.png",
+            "price": 30,
+            "order count": 1
+        }
+    ],
+    "bakery": [
+        {
+            "id": 1,
+            "name": "Pastry",
+            "image": "assets/images/bakery/Pastry.png",
+            "price": 60,
+            "order count": 1
+        },
+        {
+            "id": 2,
+            "name": "Muffin",
+            "image": "assets/images/bakery/Muffin.png",
+            "price": 50,
+            "order count": 0
+        },
+        {
+            "id": 3,
+            "name": "Doughnut",
+            "image": "assets/images/bakery/Doughnut.png",
+            "price": 25,
+            "order count": 1
+        },
+        {
+            "id": 4,
+            "name": "Cookie",
+            "image": "assets/images/bakery/Cookie.png",
+            "price": 20,
+            "order count": 1
+        },
+        {
+            "id": 5,
+            "name": "Croissant",
+            "image": "assets/images/bakery/Croissant.png",
+            "price": 50,
+            "order count": 1
+        }
+    ]
+}
